@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinayak Jat</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India.</h3>
 
-- 🌱 I’m currently learning **Next.js and Node.js**
+- 🌱 I’m currently learning **Three.js, AWS**
 
 - 👯 I’m looking to collaborate on **Amazing and Innovative Projects**
 
