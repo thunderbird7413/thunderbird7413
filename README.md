@@ -1,4 +1,11 @@
-<!-- Header & Typing Intro -->
+<p align="center">
+  <img src="https://github.com/thunderbird7413/thunderbird7413/blob/main/assets/banner.png" alt="Vinayak Jat Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vinayak+Jat+%F0%9F%91%8B;Backend+Developer+%7C+Cloud+Enthusiast;Turning+Ideas+into+Scalable+Systems;Code.+Build.+Optimize.+Repeat." alt="Typing SVG" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vinayak+Jat+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Cloud+%26+Distributed+Systems+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
