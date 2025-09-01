@@ -74,6 +74,6 @@ Currently a **B.Tech undergrad at IIT Roorkee**, I thrive at the intersection of
 
 <!-- Full Width Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer&text=Thank%20You" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer&text=Thank%20You&fontColor=ffffff" width="100%" />
 </p>
 
