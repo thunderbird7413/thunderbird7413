@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://github.com/thunderbird7413/thunderbird7413/blob/main/assets/banner.png" alt="Vinayak Jat Banner" />
-</p>
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Vinayak%20Jat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontAlign=50)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vinayak+Jat+%F0%9F%91%8B;Backend+Developer+%7C+Cloud+Enthusiast;Turning+Ideas+into+Scalable+Systems;Code.+Build.+Optimize.+Repeat." alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vinayak+Jat+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Cloud+%26+Distributed+Systems+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -74,3 +70,7 @@ Currently a **B.Tech undergrad at IIT Roorkee**, I thrive at the intersection of
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=thunderbird7413&theme=radical&hide_border=true" alt="activity graph" /> </p>
 🤝 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/vinayak-jat-b0b865291/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:vinayakjat.ps11@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> 
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer)
+
