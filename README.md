@@ -66,4 +66,4 @@ Currently a **B.Tech undergrad at IIT Roorkee**, I thrive at the intersection of
 📈 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=thunderbird7413&theme=radical&hide_border=true" alt="activity graph" /> </p>
 🤝 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/vinayak-jat-b0b865291/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:vinayakjat.ps11@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> ```
+<p align="center"> <a href="https://www.linkedin.com/in/vinayak-jat-b0b865291/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:vinayakjat.ps11@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> 
