@@ -52,7 +52,7 @@
 > echo "Welcome to Vinayak's GitHub!"
 > echo "Code. Create. Iterate. 🚀"
 > echo "React | Node.js | Python | ML"
-📊 GitHub Analytics
+```
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=thunderbird7413&show_icons=true&rank_icon=github&theme=radical" alt="stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderbird7413&layout=compact&theme=radical" alt="langs" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thunderbird7413&theme=radical" alt="streak" /> </p>
 📈 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=thunderbird7413&theme=radical&hide_border=true" alt="activity graph" /> </p>
